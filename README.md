@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -24,5 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
