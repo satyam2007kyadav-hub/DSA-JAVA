@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
+| [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -35,4 +36,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
