@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0493-reverse-pairs](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0493-reverse-pairs) |
@@ -71,14 +72,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
