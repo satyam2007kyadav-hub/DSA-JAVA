@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0242-valid-anagram) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
