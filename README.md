@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0686-repeated-string-match](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
 ## Hash Table
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
@@ -104,9 +106,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Z Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/1392-longest-happy-prefix) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/satyam2007kyadav-hub/DSA-JAVA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
